@@ -1,2 +1,2 @@
 # Toy HMMs
-Low-D simulations of various HMM variants to be generalized to behavioral clustering
+Low-D simulations of HMM variants to be generalized to behavioral clustering
